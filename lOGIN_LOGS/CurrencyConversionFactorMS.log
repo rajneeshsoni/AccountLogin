@@ -1,0 +1,11 @@
+2020-11-19 00:04:29,176 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2020-11-19 00:09:29,252 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2020-11-19 00:14:29,273 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2020-11-19 00:19:29,280 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2020-11-19 00:24:29,285 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2020-11-19 00:37:48,407 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11m34s985ms260µs800ns).
+2020-11-19 00:40:53,338 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2020-11-19 00:45:53,367 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2020-11-19 00:50:53,382 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2020-11-19 00:53:24,185 WARN org.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | producer-1] [Producer clientId=producer-1] Connection to node 0 (DESKTOP-29N9Q4N/10.0.75.1:9092) could not be established. Broker may not be available.
+2020-11-19 00:53:26,323 WARN org.apache.kafka.clients.NetworkClient [kafka-producer-network-thread | producer-1] [Producer clientId=producer-1] Connection to node 0 (DESKTOP-29N9Q4N/10.0.75.1:9092) could not be established. Broker may not be available.
